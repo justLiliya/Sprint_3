@@ -1,4 +1,3 @@
-/idea/
-/allure/
+.idea
 /target/
 .iml
