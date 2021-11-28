@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: CreateCourierTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.633 s <<< FAILURE! - in CreateCourierTest
-checkCannotCreateTwoIdenticalCouriersTest(CreateCourierTest)  Time elapsed: 0.727 s  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.891 s <<< FAILURE! - in CreateCourierTest
+checkCannotCreateTwoIdenticalCouriersTest(CreateCourierTest)  Time elapsed: 0.726 s  <<< FAILURE!
 org.junit.ComparisonFailure: Ошибка в сообщении ответа! expected:<...гин уже используется[]> but was:<...гин уже используется[. Попробуйте другой.]>
 	at CreateCourierTest.checkCannotCreateTwoIdenticalCouriersTest(CreateCourierTest.java:57)
 

@@ -1,29 +1,29 @@
 -------------------------------------------------------------------------------
 Test set: CreateOrderWithParametrizeTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 1.416 s <<< FAILURE! - in CreateOrderWithParametrizeTest
-orderCanBeCreated[0](CreateOrderWithParametrizeTest)  Time elapsed: 0.434 s  <<< FAILURE!
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 1.615 s <<< FAILURE! - in CreateOrderWithParametrizeTest
+orderCanBeCreated[0](CreateOrderWithParametrizeTest)  Time elapsed: 0.378 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <400>.
 
 	at CreateOrderWithParametrizeTest.tearDown(CreateOrderWithParametrizeTest.java:27)
 
-orderCanBeCreated[1](CreateOrderWithParametrizeTest)  Time elapsed: 0.304 s  <<< FAILURE!
+orderCanBeCreated[1](CreateOrderWithParametrizeTest)  Time elapsed: 0.461 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <400>.
 
 	at CreateOrderWithParametrizeTest.tearDown(CreateOrderWithParametrizeTest.java:27)
 
-orderCanBeCreated[2](CreateOrderWithParametrizeTest)  Time elapsed: 0.339 s  <<< FAILURE!
+orderCanBeCreated[2](CreateOrderWithParametrizeTest)  Time elapsed: 0.361 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <400>.
 
 	at CreateOrderWithParametrizeTest.tearDown(CreateOrderWithParametrizeTest.java:27)
 
-orderCanBeCreated[3](CreateOrderWithParametrizeTest)  Time elapsed: 0.328 s  <<< FAILURE!
+orderCanBeCreated[3](CreateOrderWithParametrizeTest)  Time elapsed: 0.404 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <400>.
