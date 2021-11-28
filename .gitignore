@@ -1,5 +1,5 @@
 /.idea/
-
+# Игнорировать папку таргет, кроме отчета аллюр
 /target/*
 !/target/allure-results
 
