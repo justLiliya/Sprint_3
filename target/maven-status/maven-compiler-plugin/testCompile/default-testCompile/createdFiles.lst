@@ -1,0 +1,6 @@
+CreateOrderWithParametrizeTest.class
+UnCreateCourierTest.class
+UnLoginCourierTest.class
+CreateCourierTest.class
+GettingListOfOrdersTest.class
+LoginCourierTest.class

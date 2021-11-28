@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: UnCreateCourierTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.548 s <<< FAILURE! - in UnCreateCourierTest
+cannotCreateCourierWithoutFirstNameTest(UnCreateCourierTest)  Time elapsed: 0.209 s  <<< FAILURE!
+java.lang.AssertionError: Статус не 400 Bad Request! expected:<400> but was:<201>
+	at UnCreateCourierTest.cannotCreateCourierWithoutFirstNameTest(UnCreateCourierTest.java:54)
+
